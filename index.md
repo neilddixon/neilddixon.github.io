@@ -1,8 +1,13 @@
-## Welcome to Neil's GitHub Page
+## Neil's GitHub Page
 
-My [GitHub repo](https://github.com/neilddixon)
+Most of my Dev career has been in the corporate world so cannot share
+private/confidentinal information showcasing my work. However in my limited spare time
+I have developed some work shared below... 
 
-I also have a [Bitbucket repo](https://bitbucket.org/neilddixon/)
+# Repos:
+[GitHub repo](https://github.com/neilddixon)
+
+[Bitbucket repo](https://bitbucket.org/neilddixon/)
 
 
 
